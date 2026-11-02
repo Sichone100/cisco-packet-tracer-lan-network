@@ -28,5 +28,8 @@ This project demonstrates the design and configuration of a Local Area Network (
 ## Learning Outcomes
 This project provides practical experience in network topology design, IPv4 addressing, device configuration, connectivity testing, and network troubleshooting.
 
+## Project overview
+In progress, especiall enterprise network project
 ## Author
 Musa chanzi sichone
+
